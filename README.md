@@ -9,7 +9,6 @@
 - 🤔 I’m seeking help with WordPress performance optimization and security best practices
 - 💬 Ask me about PHP, MySQL, WordPress hooks, and REST API development
 - 📫 How to reach me: [syagamreddyadireddy423@gmail.com](mailto:syagamreddyadireddy423@gmail.com).
-- ⚡ Fun fact: I love optimizing WordPress sites for scalability and speed
 
 ## Skills
 
