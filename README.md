@@ -10,4 +10,5 @@
 - 📫 How to reach me: [Your email or social links]
 - ⚡ Fun fact: [Something interesting about you]
 
+![W3C Validation](https://img.shields.io/w3c-validation/:parser)
 
