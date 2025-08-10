@@ -3,7 +3,7 @@
 <!-- GitHub profile picture displays automatically -->
 
 ## About Me
-- 🔭 I’m currently working as a **WordPress Backend Developer**
+- 🔭 I’m a final year CSE student passionate in **WordPress Backend Development**
 - 🌱 I’m learning advanced PHP techniques, REST API integrations, and headless WordPress development
 - 👯 I’m looking to collaborate on WordPress plugin development and custom theme projects
 - 🤔 I’m seeking help with WordPress performance optimization and security best practices
@@ -18,6 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### CMS & Frameworks
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -29,16 +31,14 @@
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-007ACC?style=for-the-badge&logo=composer&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 
 ### Other Expertise
-- Security Best Practices
-- Performance Optimization
-- Debugging & Troubleshooting
-- Object-Oriented PHP Programming
-- Custom Post Types & Taxonomies
-- Linux Server Management
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-FF6C37?style=for-the-badge&logo=marketing&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## GitHub Stats
 ![Adireddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adireddy113&show_icons=true&theme=radical)
