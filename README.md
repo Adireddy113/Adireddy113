@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on WordPress plugin development and custom theme projects
 - 🤔 I’m seeking help with WordPress performance optimization and security best practices
 - 💬 Ask me about PHP, MySQL, WordPress hooks, and REST API development
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [syagamreddyadireddy423@gmail.com](mailto:syagamreddyadireddy423@gmail.com).
 - ⚡ Fun fact: I love optimizing WordPress sites for scalability and speed
 
 ## Skills
@@ -20,7 +20,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### CMS & Frameworks
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -34,6 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 ### Other Expertise
@@ -48,6 +48,6 @@
 - [Headless WP API Integration](https://github.com/Adireddy113/headless-wp-api) - Headless WordPress setup with React frontend.
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syagamreddy-adireddy)
+[![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portfolio.zenvita.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syagamreddyadireddy423@gmail.com)
