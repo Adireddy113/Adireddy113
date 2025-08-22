@@ -1,5 +1,3 @@
-
-```markdown
 # 👋 Hi, I'm Syagamreddy Adireddy  
 🎓 Final Year CSE Student | 💻 WordPress Backend Developer | 🚀 Tech Enthusiast
 
@@ -69,8 +67,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portfolio.zenvita.in)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syagamreddyadireddy423@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Adireddy113-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adireddy113)
-```
 
----
 
-You can copy and paste this directly into your `README.md` file. If you'd like help writing a short personal summary for LinkedIn or your portfolio homepage, I can whip that up too.
+
