@@ -20,8 +20,16 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## Computer Science Fundamentals  
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)  
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-2980B9?style=for-the-badge&logo=codewars&logoColor=white)  
+![DBMS](https://img.shields.io/badge/Database_Management_Systems-27AE60?style=for-the-badge&logo=databricks&logoColor=white)  
+
+
 ### CMS & Frameworks
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WordPress Development](https://img.shields.io/badge/WordPress_Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Plugin Development](https://img.shields.io/badge/Plugin_Development-5A5A5A?style=for-the-badge&logo=wordpress&logoColor=white)  
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge&logo=rest-api&logoColor=white)
 
@@ -50,3 +58,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syagamreddy-adireddy)
 [![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portfolio.zenvita.in)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syagamreddyadireddy423@gmail.com)
+
+
+
+
+
+
+
+
+
