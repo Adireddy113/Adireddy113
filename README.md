@@ -1,81 +1,97 @@
 # 👋 Hi, I'm Syagamreddy Adireddy  
-🎓 Final Year CSE Student | 💻 WordPress Backend Developer | 🚀 Tech Enthusiast
+🎓 Final Year CSE Student | 💻 WordPress Developer in Progress | 🌍 Open Source Contributor  
 
+---
 
-## 🙋‍♂️ About Me  
-- 🎓 Final year Computer Science student passionate about **WordPress backend development**  
-- 🧠 Currently learning advanced PHP, REST API integrations, and headless WordPress setups  
-- 🤝 Open to collaborating on plugin development, custom themes, and performance optimization  
-- 🔐 Interested in WordPress security best practices and scalable architecture  
-- 💬 Ask me about PHP, MySQL, WordPress hooks, REST APIs, or plugin architecture  
-- 📫 Reach me at: [syagamreddyadireddy423@gmail.com](mailto:syagamreddyadireddy423@gmail.com)
+## 🧩 About Me  
+I’m a passionate developer exploring how WordPress powers the web — from themes and plugins to APIs and performance optimization.  
+Currently building my foundation in **backend WordPress development**, focusing on real-world projects, open-source learning, and continuous improvement.  
 
+- 💡 Learning advanced **PHP**, **JavaScript**, and **WordPress architecture**  
+- 🧠 Practicing **plugin development**, **REST API integration**, and **Gutenberg blocks**  
+- ⚙️ Interested in **performance tuning, SEO**, and **security best practices**  
+- 🌱 Following a **40-day WordPress Developer Sprint**  
+- ✍️ Sharing daily learnings on GitHub and LinkedIn  
+- 📫 Reach me at [syagamreddyadireddy423@gmail.com](mailto:syagamreddyadireddy423@gmail.com)  
 
-## 🛠️ Skills
+---
 
-### 🔧 WordPress & Backend Development  
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plugin_Development-5A5A5A?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge&logo=rest-api&logoColor=white" />
-</p>
+## 🎯 Current Focus 
+- Advanced Plugin Architecture & Hooks  
+- Contributing to Open Source WordPress Plugins  
 
-### 💻 Programming Languages  
+---
+
+## ⚒️ Technical Skills  
+
+### 🧠 WordPress Development
+- Plugin & Theme Development  
+- Custom Post Types, Hooks & Filters  
+- REST API Integration  
+- WooCommerce Setup & Customization  
+- Site Debugging & Optimization  
+
+### 💻 Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🧠 Computer Science Fundamentals  
-<p>
-  <img src="https://img.shields.io/badge/DSA(basic)-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOPS-2980B9?style=for-the-badge&logo=codewars&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-27AE60?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### 🗄️ Databases  
-<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Version Control  
+### 🛠 Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge&logo=rest-api&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/LocalWP-00AEEF?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-### 📈 Additional Skills  
+---
+
+## 🚀 Featured Projects  
+
+### 🔌 [Custom WordPress Plugin](https://github.com/Adireddy113/custom-wordpress-plugin)  
+Created a **modular plugin** with custom admin UI, role-based access, and reusable WordPress hooks.  
 <p>
-  <img src="https://img.shields.io/badge/Digital_Marketing-FF6C37?style=for-the-badge&logo=marketing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plugin-WordPress-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
+
+### 🌐 [Local WordPress Setup](https://github.com/Adireddy113/wordpress-dev-sprint)  
+Configured and customized local WordPress sites for **plugin and theme testing**.  
+<p>
+  <img src="https://img.shields.io/badge/LocalWP-00AEEF?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🧭 [WordPress Developer Sprint (40 Days)](https://github.com/Adireddy113/wordpress-dev-sprint)  
+A structured learning plan covering **WP core, themes, plugins, REST API**, and contributions.  
+<p>
+  <img src="https://img.shields.io/badge/40_Day_Sprint-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-Learning-blue?style=for-the-badge" />
+</p>
+
+---
 
 ## 📊 GitHub Stats  
 
-<!-- Main card centered -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adireddy113&show_icons=true&theme=radical" style="max-width: 100%; margin-bottom: 20px;" />
-  
-  <!-- Streak card below -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adireddy113&theme=radical" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adireddy113&show_icons=true&theme=radical" width="42%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adireddy113&theme=radical" width="44%" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adireddy113&layout=compact&theme=radical" width="44%" alt="Top Languages" />
 </div>
 
-## 🚀 Projects  
+---
 
-- 🔌 [Custom WordPress Plugin](https://github.com/Adireddy113/custom-wordpress-plugin)  
-  Developed a modular user management plugin using PHP and WordPress core hooks. Features include custom admin UI, role-based access control, and seamless integration with existing WordPress workflows.
+## 🌍 Connect With Me  
 
-- 🌐 [Headless WordPress API Integration](https://github.com/Adireddy113/headless-wp-api)  
-  Engineered a headless WordPress backend with REST API endpoints, enabling dynamic data exchange with a React-based frontend. Focused on secure authentication, efficient data structuring, and scalable architecture.
-
-## 🌐 Connect with Me  
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+<p align="center">
   <a href="https://linkedin.com/in/syagamreddy-adireddy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -88,11 +104,16 @@
   <a href="https://github.com/Adireddy113">
     <img src="https://img.shields.io/badge/GitHub-Adireddy113-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+  <a href="https://dev.to/Adireddy113">
+    <img src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-📌 **Actively seeking backend development opportunities focused on WordPress, plugin architecture, and API integrations.**  
+💬 **Motivational Quote:**  
+*"Build every day — even the smallest commit moves you forward."*
 
-🚀 *Code with purpose. Build with clarity. Grow with community.*
+---
 
+📌 *Focused on becoming a job-ready WordPress Developer through consistent practice, plugin development, Gutenberg block work, and open-source contribution.*
